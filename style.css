@@ -68,19 +68,20 @@
   display: grid;
   height: 50px;
   width: auto;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto;
   grid-gap: 0px;
   background-color: #ffffff;
   padding: 0px;
 }
 
-  h4{
-    font-family: 'Righteous', Helvetica, sans-serif;
-    text-align: center;
-    color:black;
-  
-    padding-left: 100px;}
-    
+h4 {
+  font-family: "Righteous", Helvetica, sans-serif;
+  text-align: center;
+  color: black;
+
+  padding-left: 100px;
+}
+
 .grid-container > div {
   background-color: #ffff;
   text-align: center;
