@@ -123,5 +123,13 @@
     text-align: left;
   }
 
+  h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:#bca5c8;
+    background-color: #9de1e4;
+    padding-left: 100px;
+  }
+
   /* Bilde overlay i about */
   
