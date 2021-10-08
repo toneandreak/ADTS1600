@@ -67,8 +67,8 @@
 .grid-container {
   display: grid;
   height: 50px;
-  width: 1500px;
-  grid-template-columns: 10% 90%;
+  width: auto;
+  grid-template-columns: auto auto;
   grid-gap: 0px;
   background-color: #ffffff;
   padding: 0px;
@@ -84,12 +84,12 @@
   border-width: 0px;
 }
 
-.item1 {
+.dropdown-menu {
   grid-row-start: 0;
   grid-row-end: 0;
   text-align: left;
 }
-.item2 {
+.plugg-logo {
   grid-row-start: auto;
   width: 100%;
   height: auto;
