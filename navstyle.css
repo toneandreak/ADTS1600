@@ -1,6 +1,6 @@
 
 .dropbtn {
-    background-color: #9de1e4;
+    background-color: #548235;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -37,7 +37,7 @@
 
   .dropdown:hover .dropdown-content {display: block;}
 
-  .dropdown:hover .dropbtn {background-color: #bca5c8;}
+  .dropdown:hover .dropbtn {background-color: #e2f0d9;}
 
   .sticky {
     position: fixed;
